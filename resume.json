@@ -1,26 +1,26 @@
 {
   "header": {
-    "fullName": "Ірина Коваленко",
-    "title": "Frontend Engineer",
+    "fullName": "Andrii Veremii",
+    "title": "Software Engineer",
     "contacts": {
-      "email": "iryna.k@example.com",
-      "phone": "+380 67 123-45-67",
-      "location": "Київ, Україна"
+      "email": "dashuk10@gmail.com",
+      "phone": "+48788083700",
+      "location": "Warsaw, Poland"
     }
   },
   "summary": {
-    "text": "Розробляю інтерфейси з 2019 року, спеціалізуюся на TypeScript та React, маю досвід ведення проєктів у міжнародних командах."
+    "text": "I am a highly motivated and organized individual with a strong desire to learn and grow in the IT field. Currently, I am pursuing a Master's degree in Computer Science: Software Engineering at Woolf GoIT Neoversity. I am passionate about exploring cutting-edge technologies and applying them to real-world projects to make a positive impact on the digital landscape. My ultimate goal is to become a proficient software engineer and contribute to innovative solutions that shape the future of the tech industry."
   },
   "experience": [
     {
       "position": "Software Engineer",
       "company": "SoftServe",
-      "start": "2022‑04",
+      "start": "2022-04",
       "end": "now",
       "projects": [
         {
-          "name": "E‑commerce Platform",
-          "description": "Міграція фронтенду на TypeScript та Next.js, впровадження SSR.",
+          "name": "E-commerce Platform",
+          "description": "Frontend migration to TypeScript and Next.js, implementation of SSR.",
           "isRecent": true
         }
       ]
@@ -28,12 +28,12 @@
     {
       "position": "Junior Frontend Developer",
       "company": "EPAM",
-      "start": "2019‑09",
-      "end": "2022‑03",
+      "start": "2019-09",
+      "end": "2022-03",
       "projects": [
         {
           "name": "Admin Dashboard",
-          "description": "Створення візуального конструктора звітів.",
+          "description": "Creation of a visual report builder.",
           "isRecent": false
         }
       ]
@@ -41,27 +41,55 @@
   ],
   "education": [
     {
-      "degree": "Магістр",
-      "field": "Комп’ютерні науки",
-      "institution": "КНУ імені Тараса Шевченка",
-      "graduation": "2019"
+      "degree": "Master's degree",
+      "field": "Computer Science",
+      "institution": "Wolf Neoversity",
+      "graduation": "2025"
+    },
+    {
+      "degree": "Fullstack Web Developer",
+      "field": "Computer Programming",
+      "institution": "GoIT - start your career in IT",
+      "graduation": "2023"
     }
   ],
   "skills": {
     "core": [
       "TypeScript",
+      "JavaScript",
       "React",
+      "Next.js",
+      "Node.js",
       "HTML5",
-      "CSS Modules"
+      "CSS Modules",
+      "SASS"
     ],
     "tools": [
       "Git",
       "Webpack",
-      "Jest"
+      "Vite",
+      "Docker",
+      "Jest",
+      "Cypress"
     ],
     "languages": [
-      "Ukrainian (рідна)",
+      "Ukrainian (Native)",
+      "Polish (B2)",
       "English (B2)"
     ]
-  }
+  },
+  "projects": [
+    {
+      "name": "Resume Generator",
+      "description": "A web application that generates a resume from a JSON file. This project demonstrates the use of design patterns in a real-world application.",
+      "technologies": ["TypeScript", "Vite", "HTML5", "CSS"],
+      "link": "https://github.com/your-username/resume-generator"
+    },
+    {
+      "name": "Personal Blog",
+      "description": "A personal blog built with Next.js and a headless CMS. The blog features a modern design and is optimized for performance.",
+      "technologies": ["Next.js", "React", "TypeScript", "GraphQL", "Strapi"],
+      "link": "https://your-blog.com"
+    }
+  ]
 }

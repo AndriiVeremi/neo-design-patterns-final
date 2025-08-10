@@ -1,7 +1,7 @@
 {
   "name": "resume-generator-template",
   "version": "1.0.0",
-  "description": "Цей шаблон демонструє застосування п'яти патернів (Facade, Template Method, Factory Method, Composite, Decorator) у мінімальному проєкті без сторонніх залежностей.",
+  "description": "This template demonstrates the application of five design patterns (Facade, Template Method, Factory Method, Composite, Decorator) in a minimal project with no external dependencies.",
   "main": "main.js",
   "scripts": {
     "start": "vite",
